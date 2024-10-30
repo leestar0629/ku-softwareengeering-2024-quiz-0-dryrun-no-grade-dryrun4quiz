@@ -1,4 +1,4 @@
-# Final Exam: Locate and Fix this code!
+# Dryrun: Try to pass every test case.
 
 Your submission must satisfy the following requirements:
 
