@@ -1,6 +1,5 @@
 def add(*args):
-  pass
-
+  pㅇㄹㅇㄹ
 def multiply(arg1, arg2):
   pass
 
